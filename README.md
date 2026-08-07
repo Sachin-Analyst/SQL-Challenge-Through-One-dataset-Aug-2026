@@ -1,4 +1,5 @@
-# SQL-Challenge-AtliQ-Hardware-July-2026
+# SQL-Challenge-Through-One-dataset-Aug-2026
+
 
 Welcome to my Codebasics "SQL Through One Dataset" Challenge project. This repository features a 15 day query debugging series built entirely on one MySQL dataset, AtliQ Hardware (gdb0041). Each day takes one real business question, breaks down the query trap that produces a wrong or incomplete result, and documents the fix with full reasoning and validated output.
 
