@@ -114,8 +114,8 @@ FY2021 has no tie at the 5th-place boundary, so both approaches return the ident
 The two queries agree here only because this particular dataset happens to have no tie -- that won't hold for every fiscal year or every dataset.
 
 Full exported result: [
-Results-01](./Day-5-Results-01.csv)
-[Results-02](./Day-5-Results-02.csv)
+Results-01](./Day-5-results-01.csv)
+[Results-02](./Day-5-results-02.csv)
 
 ## Takeaway
 
