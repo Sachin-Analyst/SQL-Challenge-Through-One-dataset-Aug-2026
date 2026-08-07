@@ -73,7 +73,7 @@ GROUP BY YEAR(fsm.date), MONTH(fsm.date), MONTHNAME(fsm.date)
 ORDER BY YEAR(fsm.date), MONTH(fsm.date);
 ```
 
-Full file: [Day-4-Fix-query](./[Day-4-Fix-query.sqll)
+Full file: [Day-4-Fix-query](./Day-4-Fix-query.sql)
 
 ## Result
 
