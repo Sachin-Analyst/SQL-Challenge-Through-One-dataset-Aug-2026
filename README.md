@@ -31,13 +31,10 @@ Each day starts with one business question against the AtliQ Hardware dataset (g
 
 *Day 1* covers filtering across related tables and joining fact and dimension tables to resolve codes into readable names.
 
-Days 2 through 15 will be added to this repository as the challenge progresses.
-
 ---
 
 ## Folder Structure
 - *Day-01-filters-and-joins* - Filtering across related tables and joining fact/dimension tables for readable output: full problem breakdown, trap, fix, and result
-- *Day-02* through *Day-15* - Coming soon as the challenge progresses
 
 ## Key Features
 - *Query Debugging* - identifying why a query that runs without error still returns the wrong result
