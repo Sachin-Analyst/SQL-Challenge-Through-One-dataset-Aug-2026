@@ -94,4 +94,4 @@ Full exported result: [Day_3](./Day-3-results.csv)
 
 ---
 
-**Original LinkedIn post:** [add link here]
+**Original LinkedIn post:** [Linkedin-post-URL](https://www.linkedin.com/posts/vishnu-ram-sachin-d-_day-3-learnings-by-sachin-activity-7488167706555432960-gOZb?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD-YjK4B1ekkuKaP0cSvVwYi6kAAiCTAQhY)
