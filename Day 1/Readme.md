@@ -8,7 +8,7 @@
 
 ## The Ask
 
-![Codebasics Challenge Day 1 ] (./assests/Day-1-Challenge.png)
+![Codebasics Challenge Day 1 ](./assests/Day-1-Challenge.png)
 
 This is Day 1 of a 15-day series, one real dataset (AtliQ Hardware, `gdb0041`) for all 15 days -- the same tables you'd meet on the job.
 
