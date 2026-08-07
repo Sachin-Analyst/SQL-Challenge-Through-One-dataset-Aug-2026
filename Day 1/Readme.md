@@ -95,4 +95,4 @@ Full file: [Day_l](./Day-1-fix-query.sql)
 
 ---
 
-**Original LinkedIn post:** (https://www.linkedin.com/posts/vishnu-ram-sachin-d-_day-1-learnings-by-sachin-activity-7487505967019077632-dSVr?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD-YjK4B1ekkuKaP0cSvVwYi6kAAiCTAQhY)
+**Original LinkedIn post:** [Day-1-Linkedin-Post-URL](https://www.linkedin.com/posts/vishnu-ram-sachin-d-_day-1-learnings-by-sachin-activity-7487505967019077632-dSVr?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD-YjK4B1ekkuKaP0cSvVwYi6kAAiCTAQhY)
