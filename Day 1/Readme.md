@@ -2,7 +2,7 @@
 
 **Dataset:** AtliQ Hardware (`gdb0041`) | **Tool:** MySQL | **Date:** 27/07/2026
 
-[View fix-query.sql](./fix-query.sql)
+[Day_l](./Day-1-fix-query.sql)
 
 ---
 
@@ -80,7 +80,7 @@ WHERE dc.market = 'India'
     AND dc.customer = 'Atliq Exclusive';
 ```
 
-Full file: [fix-query.sql](./fix-query.sql)
+Full file: [Day_l](./Day-1-fix-query.sql)
 
 ## Result
 
