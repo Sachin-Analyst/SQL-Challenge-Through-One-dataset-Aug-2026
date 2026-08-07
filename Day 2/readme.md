@@ -3,7 +3,7 @@
 
 **Dataset:** AtliQ Hardware (`gdb0041`) | **Tool:** MySQL | **Date:** 28/07/2026
 
-[Day_2](./Day-2-Fix-Query.sql)
+[Day_2](./Day-2-Fix-query.sql)
 
 ---
 
