@@ -71,7 +71,7 @@ JOIN gdb0041.fact_gross_price gp
 GROUP BY fs.fiscal_year, fs.product_code;
 ```
 
-Full file: [fix-query.sql](./fix-query.sql)
+Full file: [fix-query.sql](./Day-3-Fix-query.sql)
 
 ## Result
 
@@ -85,7 +85,7 @@ Sample of the output, gross sales in millions of rupees per product per fiscal y
 | A0418150101 | 2018 | 0.35 |
 | A0418150102 | 2018 | 0.37 |
 
-Full exported result: [Results](./Results)
+Full exported result: [Day_3](./Day-3-results.csv)
 
 ## Takeaway
 
