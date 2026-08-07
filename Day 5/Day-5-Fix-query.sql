@@ -1,4 +1,5 @@
 
+-- Fix query 01
 
 WITH gross_sales_report AS (SELECT 
 	fsm.fiscal_year,
@@ -20,7 +21,7 @@ FROM gross_sales_report gsr
 WHERE rnk <=5
 ORDER BY rnk;
 
-
+-- Fix query 02
 
 WITH gross_sales_report AS (SELECT 
 	fsm.fiscal_year,
