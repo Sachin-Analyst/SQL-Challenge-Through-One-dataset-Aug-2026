@@ -2,13 +2,13 @@
 
 **Dataset:** AtliQ Hardware (`gdb0041`) | **Tool:** MySQL | **Date:** 30/07/2026
 
-[View fix-query.sql](./fix-query.sql)
+[Results](./Day-4-Fix-query.sql)
 
 ---
 
 ## The Ask
 
-![Codebasics ask on Discord](./assets/challenge/discord-ask.png)
+![Challenge_Question](./Day-4-Challenge.png)
 
 Day 4 of 15, same dataset (AtliQ Hardware, `gdb0041`) as every other day in this series.
 
@@ -73,7 +73,7 @@ GROUP BY YEAR(fsm.date), MONTH(fsm.date), MONTHNAME(fsm.date)
 ORDER BY YEAR(fsm.date), MONTH(fsm.date);
 ```
 
-Full file: [fix-query.sql](./fix-query.sql)
+Full file: [Day-4-Fix-query](./[Day-4-Fix-query.sqll)
 
 ## Result
 
@@ -91,7 +91,7 @@ Full file: [fix-query.sql](./fix-query.sql)
 | 2021 | June | 2.23 Mln |
 | 2021 | August | 2.40 Mln |
 
-Full exported result: [Results](./Results)
+Full exported result: [Results](./Day-4-results.csv)
 
 ## Takeaway
 
@@ -100,4 +100,4 @@ Full exported result: [Results](./Results)
 
 ---
 
-**Original LinkedIn post:** [add link here]
+**Original LinkedIn post:** [Linkedin-post-URL](https://www.linkedin.com/posts/vishnu-ram-sachin-d-_day-4-learnings-by-sachin-activity-7488783782507061249-kE6N?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD-YjK4B1ekkuKaP0cSvVwYi6kAAiCTAQhY)
