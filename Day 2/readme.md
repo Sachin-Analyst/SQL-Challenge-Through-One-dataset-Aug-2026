@@ -73,7 +73,7 @@ FROM gdb0041.fact_sales_monthly
 WHERE YEAR(DATE_ADD(date, INTERVAL 4 MONTH)) = 2021;
 ```
 
-Full file: [fix-query.sql](./fix-query.sql)
+Full file: [fix-query.sql](./Day-2-Fix-query.sql)
 
 ## Alternative Fix & Performance Check
 
@@ -89,7 +89,7 @@ Same result, spelled out explicitly instead of shifted. Ran `EXPLAIN ANALYZE` on
 
 Trap query: 619,763 rows. Fix query: 608,108 rows -- the difference is exactly the Sep-Dec 2021 rows that don't belong in FY2021.
 
-Full exported result: [Results](./Results)
+Full exported result: [Results](./Day-2-results.csv)
 
 ## Takeaway
 
@@ -98,4 +98,4 @@ Full exported result: [Results](./Results)
 
 ---
 
-**Original LinkedIn post:** [add link here]
+**Original LinkedIn post:** [Linkedin_post_URL](https://www.linkedin.com/posts/vishnu-ram-sachin-d-_day-2-learnings-by-sachin-activity-7487801546823393281-_cQ-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD-YjK4B1ekkuKaP0cSvVwYi6kAAiCTAQhY)
