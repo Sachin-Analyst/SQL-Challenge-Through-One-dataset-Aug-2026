@@ -65,9 +65,6 @@ To explore or modify this project:
 - The trap query that looks right but returns the wrong result, and why
 - The fix query with full explanation
 - Real row counts and results from the validated query
-
-----
-### Explore each `Day-XX` folder for the full problem breakdown, trap, fix, and results.
 ----
 
 # Note !
