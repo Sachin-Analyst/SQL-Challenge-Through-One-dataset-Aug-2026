@@ -66,7 +66,7 @@ SELECT
     ORDER BY gsr.gross_sales_mln DESC;
 ```
 
-Full file: [fix-query.sql](./fix-query.sql)
+Full file: [Fix-query](./Day-7-Fix-query.sql)
 
 ## Result
 
