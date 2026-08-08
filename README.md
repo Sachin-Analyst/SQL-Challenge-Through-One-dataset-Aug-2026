@@ -32,7 +32,24 @@ Each day starts with one business question against the AtliQ Hardware dataset (g
 ---
 
 ## Folder Structure
-- *Day-01-filters-and-joins* - Filtering across related tables and joining fact/dimension tables for readable output: full problem breakdown, trap, fix, and result
+
+- *Day 1 / 15 -- Filtering Across Related Tables*
+- *Day 2 / 15 -- Fiscal Year Filtering with DATE_ADD*
+- *Day 3 / 15 -- Joining on the Right Composite Key*
+- *Day 4 / 15 -- Sorting Months in Calendar Order, Not Alphabetical*
+- *Day 5 / 15 -- "Top 5 Markets" Is Two Different Questions*
+- *Day 6 / 15 -- Percent of Total Without Losing the Grand Total*
+- *Day 7 / 15 -- Net Invoice Sales: a Fraction, Not a Whole Number*
+- *Day 8 / 15 -- Readability Is Not Cosmetic*
+- *Day 9 / 15 -- Two Deductions Tables, Two Different Grains*
+- *Day 10 / 15 -- Top 3 Per Division, Not Top 3 Overall*
+- *Day 11 / 15 -- Two Years, One Row: Pivoting FY2020 vs FY2021*
+- *Day 12 / 15 -- A Running Total That Resets on Its Own Calendar*
+- *Day 13/15 -- Will be uploaded*
+- *Day 14/15 -- Will be uploaded*
+- *Day 14/15 -- Will be uploaded*
+
+---
 
 ## Key Features
 - *Query Debugging* - identifying why a query that runs without error still returns the wrong result
