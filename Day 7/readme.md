@@ -2,13 +2,13 @@
 
 **Dataset:** AtliQ Hardware (`gdb0041`) | **Tool:** MySQL | **Date:** 02/08/2026
 
-[View fix-query.sql](./fix-query.sql)
+[Fix-query](./Day-7-Fix-query.sql)
 
 ---
 
 ## The Ask
 
-![Codebasics ask on Discord](./assets/challenge/discord-ask.png)
+![Challenge-question](./Day-7-Challenge.png)
 
 Day 7 of 15, same dataset (AtliQ Hardware, `gdb0041`) as every other day in this series.
 
@@ -88,7 +88,7 @@ Top customers by gross sales, alongside net invoice sales after the discount:
 
 25 rows returned in total (full result exported below).
 
-Full exported result: [Results](./Results)
+Full exported result: [Results](./Day-7-results.csv)
 
 ## Takeaway
 
