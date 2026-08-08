@@ -8,7 +8,7 @@
 
 ## The Ask
 
-[Challenge-question](./Day-13-Challenge.png)
+![Challenge-question](./Day-13-Challenge.png)
 
 Day 13 of 15, same dataset (AtliQ Hardware, `gdb0041`) as every other day in this series.
 
