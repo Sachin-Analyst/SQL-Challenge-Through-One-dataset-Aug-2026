@@ -2,13 +2,13 @@
 
 **Dataset:** AtliQ Hardware (`gdb0041`) | **Tool:** MySQL | **Date:** 05/08/2026
 
-[View fix-query.sql](./fix-query.sql)
+[View fix-query](./Day-10-Fix-query.sql)
 
 ---
 
 ## The Ask
 
-![Codebasics ask on Discord](./assets/challenge/discord-ask.png)
+![Challenge-question](./Day-10-Challenge.png)
 
 Day 10 of 15, same dataset (AtliQ Hardware, `gdb0041`) as every other day in this series.
 
@@ -57,7 +57,8 @@ rpp.division , rpp.total_sold_quantity, rpp.product_rank
     ORDER BY rpp.division , rpp.product_rank;
 ```
 
-Full file: [fix-query.sql](./fix-query.sql)
+Full file: [View fix-query](./Day-10-Fix-query.sql)
+
 
 ## Result
 
@@ -75,7 +76,7 @@ Three divisions, three products each -- 9 rows total, exactly what the ask calle
 | A4118110107 | AQ Aspiron | PC | 56363 | 2 |
 | A4218110201 | AQ Digit | PC | 56149 | 3 |
 
-Full exported result: [Results](./Results)
+Full exported result: [Results](./Day-10-results.csv)
 
 ## Takeaway
 
@@ -84,5 +85,5 @@ Full exported result: [Results](./Results)
 
 ---
 
-**Original LinkedIn post:** [add link here]
-**Dataset reference (Codebasics course):** https://codebasics.io/courses/bootcamp/1/sql-beginner-to-advanced-for-data-professionals/lecture/1070
+**Original LinkedIn post:** [Linkedin-post-URL](https://www.linkedin.com/posts/vishnu-ram-sachin-d-_day-10-learning-by-sachin-activity-7490723306279456768-kWex?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD-YjK4B1ekkuKaP0cSvVwYi6kAAiCTAQhY)
+
