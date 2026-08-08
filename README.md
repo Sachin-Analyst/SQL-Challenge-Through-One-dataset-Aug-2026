@@ -29,8 +29,6 @@ This repository contains the daily body of work from the Codebasics "SQL Through
 
 Each day starts with one business question against the AtliQ Hardware dataset (gdb0041). The first query attempt looks correct and runs without error, but returns wrong or incomplete results because of a specific SQL trap: an under-specified filter, a missing join, a GROUP BY misuse, a window function misapplication, and so on. Each day's folder documents the trap, the fix, the reasoning behind it, and the final validated query.
 
-*Day 1* covers filtering across related tables and joining fact and dimension tables to resolve codes into readable names.
-
 ---
 
 ## Folder Structure
