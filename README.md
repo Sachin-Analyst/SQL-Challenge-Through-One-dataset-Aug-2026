@@ -33,22 +33,25 @@ Each day starts with one business question against the AtliQ Hardware dataset (g
 
 ## Folder Structure
 
-- *Day 1 / 15 -- Filtering Across Related Tables*
-- *Day 2 / 15 -- Fiscal Year Filtering with DATE_ADD*
-- *Day 3 / 15 -- Joining on the Right Composite Key*
-- *Day 4 / 15 -- Sorting Months in Calendar Order, Not Alphabetical*
-- *Day 5 / 15 -- "Top 5 Markets" Is Two Different Questions*
-- *Day 6 / 15 -- Percent of Total Without Losing the Grand Total*
-- *Day 7 / 15 -- Net Invoice Sales: a Fraction, Not a Whole Number*
-- *Day 8 / 15 -- Readability Is Not Cosmetic*
-- *Day 9 / 15 -- Two Deductions Tables, Two Different Grains*
-- *Day 10 / 15 -- Top 3 Per Division, Not Top 3 Overall*
-- *Day 11 / 15 -- Two Years, One Row: Pivoting FY2020 vs FY2021*
-- *Day 12 / 15 -- A Running Total That Resets on Its Own Calendar*
-- *Day 13/15 -- Will be uploaded*
-- *Day 14/15 -- Will be uploaded*
-- *Day 15/15 -- Will be uploaded*
+## Folder Structure
 
+| Day | Folder | Focus |
+|---|---|---|
+| 01 | [Day 1](./Day%1) | Filtering across related tables and joining fact/dimension tables for readable output |
+| 02 | [Day 2](./Day%2) | Filtering to the correct fiscal year window using `DATE_ADD` instead of hardcoded date ranges |
+| 03 | [Day 3](./Day%3) | Joining fact tables on the right composite key instead of a partial match that fans out rows |
+| 04 | [Day 4](./Day%4) | Sorting months in true calendar order instead of the default alphabetical sort |
+| 05 | [Day 5](./Day%5) | "Top 5 markets" is two different questions depending on what's being ranked |
+| 06 | [Day 6](./Day%6) | Calculating percent of total without collapsing or losing the grand total row |
+| 07 | [Day 7](./Day%7) | Net invoice sales is a fraction of gross sales, not a standalone whole number |
+| 08 | [Day 8](./Day%8) | Breaking a single dense query into readable CTEs -- why readability isn't just cosmetic |
+| 09 | [Day 9](./Day%9) | Two deductions tables, two different grains -- why reusing yesterday's join key silently fans out row counts |
+| 10 | [Day_10](./Day_10) | Top 3 products per division using `RANK() OVER (PARTITION BY division)`, instead of one shared top 3 |
+| 11 | [Day_11](./Day_11) | Pivoting FY2020 vs FY2021 into columns on one row per market, with a `NULLIF` guard against divide-by-zero |
+| 12 | [Day_12](./Day_12) | Running total that resets at each fiscal year boundary, ordered by true date instead of alphabetical month name |
+| 13 | *(pending)* | *(add topic)* |
+| 14 | *(pending)* | *(add topic)* |
+| 15 | *(pending)* | *(add topic)* |
 ---
 
 ## Key Features
