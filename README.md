@@ -47,7 +47,7 @@ Each day starts with one business question against the AtliQ Hardware dataset (g
 | 10 | [Day_10](./Day_10) | Top 3 products per division using `RANK() OVER (PARTITION BY division)`, instead of one shared top 3 |
 | 11 | [Day_11](./Day_11) | Pivoting FY2020 vs FY2021 into columns on one row per market, with a `NULLIF` guard against divide-by-zero |
 | 12 | [Day_12](./Day_12) | Running total that resets at each fiscal year boundary, ordered by true date instead of alphabetical month name |
-| 13 | *(pending)* | *(add topic)* |
+| 13 | [Day_13](./Day_13) | Forecast vs actuals comparison rebuilt with LEFT JOIN + UNION ALL, since INNER JOIN was silently dropping every forecasted-not-sold and sold not forecasted month |
 | 14 | *(pending)* | *(add topic)* |
 | 15 | *(pending)* | *(add topic)* |
 
