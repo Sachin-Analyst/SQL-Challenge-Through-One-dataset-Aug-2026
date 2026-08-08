@@ -2,13 +2,13 @@
 
 **Dataset:** AtliQ Hardware (`gdb0041`) | **Tool:** MySQL | **Date:** 01/08/2026
 
-[View fix-query.sql](./fix-query.sql)
+[Fix-query](./Day-6-Fix-query.sql)
 
 ---
 
 ## The Ask
 
-![Codebasics ask on Discord](./assets/challenge/discord-ask.png)
+![Challenge-questiond](./Day-6-Challenge.png)
 
 Day 6 of 15, same dataset (AtliQ Hardware, `gdb0041`) as every other day in this series.
 
@@ -68,7 +68,7 @@ gtr.pct_of_total
 FROM grand_total_report gtr;
 ```
 
-Full file: [fix-query.sql](./fix-query.sql)
+Full file: [Fix-query](./Day-6-Fix-query.sql)
 
 ## Result
 
@@ -90,7 +90,7 @@ Each market's FY2021 gross sales alongside its share of the total:
 | Germany | 41.25 | 2.48 |
 | Spain | 38.96 | 2.34 |
 
-Full exported result: [Results](./Results)
+Full exported result: [Results](./Day-6-results.csv)
 
 ## Takeaway
 
