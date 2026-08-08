@@ -2,13 +2,13 @@
 
 **Dataset:** AtliQ Hardware (`gdb0041`) | **Tool:** MySQL | **Date:** 03/08/2026
 
-[View fix-query.sql](./fix-query.sql)
+[View-fix-query](./Day-8-Fix-query.sql)
 
 ---
 
 ## The Ask
 
-![Codebasics ask on Discord](./assets/challenge/discord-ask.png)
+![Challenge-question](./Day-8-Challenge.png)
 
 Day 8 of 15, same dataset (AtliQ Hardware, `gdb0041`) as every other day in this series.
 
@@ -83,7 +83,7 @@ JOIN pre_invoice_report pir
 ORDER BY gsr.gross_sales_mln DESC;
 ```
 
-Full file: [fix-query.sql](./fix-query.sql)
+Full file: [View-fix-query](./Day-8-Fix-query.sql)
 
 ## Result
 
@@ -109,7 +109,7 @@ Same correct output as Day 7, now from a query a teammate can actually follow:
 
 Same customer codes reappear with different figures further down -- that's the same customer in a different fiscal year, which is exactly what `GROUP BY customer_code, fiscal_year` is meant to keep separate.
 
-Full exported result: [Results](./Results)
+Full exported result: [Results](./Day-8-results.csv)
 
 ## Takeaway
 
@@ -118,5 +118,5 @@ Full exported result: [Results](./Results)
 
 ---
 
-**Original LinkedIn post:** [add link here]
-**Dataset reference (Codebasics course):** https://codebasics.io/courses/bootcamp/1/sql-beginner-to-advanced-for-data-professionals/lecture/1070
+**Original LinkedIn post:** [Linkedin-post-URL](https://www.linkedin.com/posts/vishnu-ram-sachin-d-_day-8-learnings-by-sachin-activity-7490297179677343744-3M_L?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD-YjK4B1ekkuKaP0cSvVwYi6kAAiCTAQhY)
+
