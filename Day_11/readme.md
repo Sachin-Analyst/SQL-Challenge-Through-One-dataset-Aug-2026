@@ -2,13 +2,13 @@
 
 **Dataset:** AtliQ Hardware (`gdb0041`) | **Tool:** MySQL | **Date:** 06/08/2026
 
-[View fix-query.sql](./fix-query.sql)
+[View fix-query](./Day-11-Fix-query.sql)
 
 ---
 
 ## The Ask
 
-![Codebasics ask on Discord](./assets/challenge/discord-ask.png)
+![Challenge-question](./Day-11-Challenge.png)
 
 Day 11 of 15, same dataset (AtliQ Hardware, `gdb0041`) as every other day in this series.
 
@@ -80,7 +80,7 @@ SELECT
     ORDER BY myr.market;
 ```
 
-Full file: [fix-query.sql](./fix-query.sql)
+Full file: [View fix-query](./Day-11-Fix-query.sql)
 
 ## Result
 
@@ -105,7 +105,7 @@ Full file: [fix-query.sql](./fix-query.sql)
 
 Brazil is the one market that shrank between the two years, everything else grew, some by a small amount and some many times over off a very low FY2020 base.
 
-Full exported result: [Results](./Results)
+Full exported result: [Results](./Day-11-results.csv)
 
 ## Takeaway
 
@@ -115,5 +115,4 @@ Full exported result: [Results](./Results)
 
 ---
 
-**Original LinkedIn post:** [add link here]
-**Dataset reference (Codebasics course):** https://codebasics.io/courses/bootcamp/1/sql-beginner-to-advanced-for-data-professionals/lecture/1070
+**Original LinkedIn post:** [Linkedin-post-URL](https://www.linkedin.com/posts/vishnu-ram-sachin-d-_day-11-learnings-by-sachin-activity-7491128345007452162-3KTr?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD-YjK4B1ekkuKaP0cSvVwYi6kAAiCTAQhY)
