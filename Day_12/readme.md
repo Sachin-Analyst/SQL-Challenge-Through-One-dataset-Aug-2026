@@ -2,13 +2,13 @@
 
 **Dataset:** AtliQ Hardware (`gdb0041`) | **Tool:** MySQL | **Date:** 07/08/2026
 
-[View fix-query.sql](./fix-query.sql)
+[View fix-query](./Day-12-Fix-query.sql)
 
 ---
 
 ## The Ask
 
-![Codebasics ask on Discord](./assets/challenge/discord-ask.png)
+![Challenge-question](./Day-12-Challenge.png)
 
 Day 12 of 15, same dataset (AtliQ Hardware, `gdb0041`) as every other day in this series.
 
@@ -60,7 +60,7 @@ FROM gross_sales_report gsr
 ORDER BY gsr.fiscal_year, gsr.date;
 ```
 
-Full file: [fix-query.sql](./fix-query.sql)
+Full file: [View fix-query](./Day-12-Fix-query.sql)
 
 ## Result
 
@@ -84,7 +84,7 @@ Each fiscal year builds up cleanly in true month order and resets the moment the
 
 Fiscal year 2018 climbs steadily from 4.19 million all the way to 58.32 million by August, its last month. The moment September 2019 begins, `running_total` drops back down and starts over at 15.14 -- exactly the reset the ask called for.
 
-Full exported result: [Results](./Results)
+Full exported result: [Results](./Day-12-results.csv)
 
 ## Takeaway
 
@@ -93,5 +93,5 @@ Full exported result: [Results](./Results)
 
 ---
 
-**Original LinkedIn post:** [add link here]
-**Dataset reference (Codebasics course):** https://codebasics.io/courses/bootcamp/1/sql-beginner-to-advanced-for-data-professionals/lecture/1070
+**Original LinkedIn post:** [Linkedin-post-URL](https://www.linkedin.com/posts/vishnu-ram-sachin-d-_day-12-learning-by-sachin-activity-7491432520652292096-jN3t?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD-YjK4B1ekkuKaP0cSvVwYi6kAAiCTAQhY)
+
