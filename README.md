@@ -37,15 +37,15 @@ Each day starts with one business question against the AtliQ Hardware dataset (g
 
 | Day | Folder | Focus |
 |---|---|---|
-| 01 | [Day 1](./Day%1) | Filtering across related tables and joining fact/dimension tables for readable output |
-| 02 | [Day 2](./Day%2) | Filtering to the correct fiscal year window using `DATE_ADD` instead of hardcoded date ranges |
-| 03 | [Day 3](./Day%3) | Joining fact tables on the right composite key instead of a partial match that fans out rows |
-| 04 | [Day 4](./Day%4) | Sorting months in true calendar order instead of the default alphabetical sort |
-| 05 | [Day 5](./Day%5) | "Top 5 markets" is two different questions depending on what's being ranked |
-| 06 | [Day 6](./Day%6) | Calculating percent of total without collapsing or losing the grand total row |
-| 07 | [Day 7](./Day%7) | Net invoice sales is a fraction of gross sales, not a standalone whole number |
-| 08 | [Day 8](./Day%8) | Breaking a single dense query into readable CTEs -- why readability isn't just cosmetic |
-| 09 | [Day 9](./Day%9) | Two deductions tables, two different grains -- why reusing yesterday's join key silently fans out row counts |
+| 01 | [Day 1](./Day 1) | Filtering across related tables and joining fact/dimension tables for readable output |
+| 02 | [Day 2](./Day 2) | Filtering to the correct fiscal year window using `DATE_ADD` instead of hardcoded date ranges |
+| 03 | [Day 3](./Day 3) | Joining fact tables on the right composite key instead of a partial match that fans out rows |
+| 04 | [Day 4](./Day 4) | Sorting months in true calendar order instead of the default alphabetical sort |
+| 05 | [Day 5](./Day 5) | "Top 5 markets" is two different questions depending on what's being ranked |
+| 06 | [Day 6](./Day 6) | Calculating percent of total without collapsing or losing the grand total row |
+| 07 | [Day 7](./Day 7) | Net invoice sales is a fraction of gross sales, not a standalone whole number |
+| 08 | [Day 8](./Day 8) | Breaking a single dense query into readable CTEs -- why readability isn't just cosmetic |
+| 09 | [Day 9](./Day 9) | Two deductions tables, two different grains -- why reusing yesterday's join key silently fans out row counts |
 | 10 | [Day_10](./Day_10) | Top 3 products per division using `RANK() OVER (PARTITION BY division)`, instead of one shared top 3 |
 | 11 | [Day_11](./Day_11) | Pivoting FY2020 vs FY2021 into columns on one row per market, with a `NULLIF` guard against divide-by-zero |
 | 12 | [Day_12](./Day_12) | Running total that resets at each fiscal year boundary, ordered by true date instead of alphabetical month name |
