@@ -33,8 +33,6 @@ Each day starts with one business question against the AtliQ Hardware dataset (g
 
 ## Folder Structure
 
-## Folder Structure
-
 | Day | Folder | Focus |
 |---|---|---|
 | 01 | [Day 1](./Day%201) | Filtering across related tables and joining fact/dimension tables for readable output |
@@ -52,6 +50,7 @@ Each day starts with one business question against the AtliQ Hardware dataset (g
 | 13 | *(pending)* | *(add topic)* |
 | 14 | *(pending)* | *(add topic)* |
 | 15 | *(pending)* | *(add topic)* |
+
 ---
 
 ## Key Features
