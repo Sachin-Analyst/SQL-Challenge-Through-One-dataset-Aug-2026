@@ -9,7 +9,7 @@
 
 ## The Ask
 
-![Challenge_question](./assets/Day-2-Challenge.png)
+![Challenge_question](./Day-2-Challenge.png)
 
 Day 2 of 15, same dataset (AtliQ Hardware, `gdb0041`) as every other day in this series.
 
