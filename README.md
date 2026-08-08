@@ -62,7 +62,7 @@ Each day starts with one business question against the AtliQ Hardware dataset (g
 To explore or modify this project:
 1. *Clone the repository:*
 ```bash
-   git clone https://github.com/Sachin-Analyst/SQL-Challenge-AtliQ-Hardware-July-2026.git
+   git clone https://github.com/Sachin-Analyst/SQL-Challenge-Through-One-dataset-Aug-2026.git
 ```
    - Open terminal and run the command
 2. *Download and Open MySQL Workbench* (or any MySQL client)
