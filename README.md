@@ -47,7 +47,7 @@ Each day starts with one business question against the AtliQ Hardware dataset (g
 - *Day 12 / 15 -- A Running Total That Resets on Its Own Calendar*
 - *Day 13/15 -- Will be uploaded*
 - *Day 14/15 -- Will be uploaded*
-- *Day 14/15 -- Will be uploaded*
+- *Day 15/15 -- Will be uploaded*
 
 ---
 
