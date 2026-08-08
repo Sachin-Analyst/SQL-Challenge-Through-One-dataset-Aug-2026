@@ -8,6 +8,8 @@
 
 ## The Ask
 
+[Challenge-question](./Day-13-Challenge.png)
+
 Day 13 of 15, same dataset (AtliQ Hardware, `gdb0041`) as every other day in this series.
 
 Yesterday's fix was about a running total resetting on the right calendar. Today, leadership wants something different: an honest forecast vs actuals comparison, per product per month. `fact_forecast_monthly` holds what we planned to sell (`forecast_quantity`), `fact_sales_monthly` holds what we actually sold (`sold_quantity`).
