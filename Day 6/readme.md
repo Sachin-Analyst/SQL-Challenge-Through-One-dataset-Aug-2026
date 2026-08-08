@@ -99,5 +99,5 @@ Full exported result: [Results](./Day-6-results.csv)
 
 ---
 
-**Original LinkedIn post:** [add link here]
-**Dataset reference (Codebasics course):** https://codebasics.io/courses/bootcamp/1/sql-beginner-to-advanced-for-data-professionals/lecture/1070
+**Original LinkedIn post:** [Linkedin-post-URL](https://www.linkedin.com/posts/vishnu-ram-sachin-d-_day-6-learnings-by-sachin-activity-7489274730693177344-JRr0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD-YjK4B1ekkuKaP0cSvVwYi6kAAiCTAQhY)
+
