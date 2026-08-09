@@ -113,4 +113,4 @@ Full exported result:
 
 ---
 
-**Original LinkedIn post:** *(add link once posted)*
+**Original LinkedIn post:** [Linkedin-post-URL](https://www.linkedin.com/posts/vishnu-ram-sachin-d-_day-14-learnings-by-sachin-ugcPost-7492206263909576704-cmOL/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD-YjK4B1ekkuKaP0cSvVwYi6kAAiCTAQhY)
