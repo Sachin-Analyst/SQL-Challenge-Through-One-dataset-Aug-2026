@@ -8,6 +8,8 @@
 
 ## The Ask
 
+![Challenge-question](./Day-14-Challenge.png)
+
 Day 14 of 15, same dataset (AtliQ Hardware, `gdb0041`) as every other day in this series.
 
 Yesterday's fix rebuilt an honest forecast vs actuals comparison using two `LEFT JOIN`s instead of a silently-filtering `INNER JOIN`. Today, Sales wants something simpler on the surface: a list of new FY2021 customers -- anyone who bought in FY2021 but did not buy in FY2020.
