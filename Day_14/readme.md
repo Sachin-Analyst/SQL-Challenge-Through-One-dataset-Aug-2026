@@ -103,7 +103,8 @@ AND customer_code IN (
 
 **`in_both` = 209.** All 209 FY2021 customers matched back into FY2020 -- full overlap, not a coincidence of matching counts. Combined with `NOT EXISTS` independently returning 0 rows across multiple runs, the zero is verified from three separate directions, not just taken at face value.
 
-Full exported result: [Results](./Day-14-results.csv)
+Full exported result: 
+![Results](./Day-14-results.png)
 
 ## Takeaway
 
