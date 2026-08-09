@@ -48,7 +48,7 @@ Each day starts with one business question against the AtliQ Hardware dataset (g
 | 11 | [Day_11](./Day_11) | Pivoting FY2020 vs FY2021 into columns on one row per market, with a `NULLIF` guard against divide-by-zero |
 | 12 | [Day_12](./Day_12) | Running total that resets at each fiscal year boundary, ordered by true date instead of alphabetical month name |
 | 13 | [Day_13](./Day_13) | Forecast vs actuals comparison rebuilt with LEFT JOIN + UNION ALL, since INNER JOIN was silently dropping every forecasted-not-sold and sold not forecasted month |
-| 14 || [Day_14](./Day_14) | New FY2021 customers list rebuilt with NOT EXISTS, since NOT IN silently returned a false zero the moment a NULL reached its subquery |
+| 14 | [Day_14](./Day_14) | New FY2021 customers list rebuilt with NOT EXISTS, since NOT IN silently returned a false zero the moment a NULL reached its subquery |
 | 15 | *(pending)* | *(add topic)* |
 
 ---
