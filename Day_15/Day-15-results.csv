@@ -1,0 +1,11 @@
+customer,market,net_sales_mln,pct_of_total,rank_order
+Sage,"South Korea",22.85,2.77,1
+Leader,"South Korea",22.38,2.72,2
+Neptune,China,20.14,2.44,3
+Amazon,India,19.07,2.31,4
+Synthetic,Philiphines,14.14,1.72,5
+"AltiQ Exclusive",India,13.21,1.60,6
+Flipkart,India,12.96,1.57,7
+Novus,Philiphines,12.91,1.57,8
+Electricalsocity,India,12.31,1.49,9
+Amazon,USA,11.90,1.44,10
