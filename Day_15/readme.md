@@ -8,6 +8,7 @@
 ------------------------------------------------------------------------
 
 ## The Ask
+![Challenge-question](./Day-15-Challenge.png)
 
 Day 15 of 15. Same dataset (AtliQ Hardware, `gdb0041`) as every other
 day in this series.
@@ -197,7 +198,7 @@ The final output is the **FY2021 top 10 customers by net sales**, with:
 
 **Final exported result:**
 
-> *Insert the final query output / exported result here.*
+[Results](./Day-15-results.csv)
 
 ## Verification
 
