@@ -49,7 +49,7 @@ Each day starts with one business question against the AtliQ Hardware dataset (g
 | 12 | [Day_12](./Day_12) | Running total that resets at each fiscal year boundary, ordered by true date instead of alphabetical month name |
 | 13 | [Day_13](./Day_13) | Forecast vs actuals comparison rebuilt with LEFT JOIN + UNION ALL, since INNER JOIN was silently dropping every forecasted-not-sold and sold not forecasted month |
 | 14 | [Day_14](./Day_14) | New FY2021 customers list rebuilt with NOT EXISTS, since NOT IN silently returned a false zero the moment a NULL reached its subquery |
-| 15 | *(pending)* | *(add topic)* |
+| 15 | [Day_15](./Day_15) * | FY2021 top 10 customers by NET sales, built through the full gross-to-net chain with CTEs, then ranked and measured by share of total net sales |
 
 ---
 
