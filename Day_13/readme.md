@@ -126,4 +126,4 @@ Full exported result: [Results](./Day-13-results.csv)
 
 ---
 
-**Original LinkedIn post:** *(add link once posted)*
+**Original LinkedIn post:** [Linkedin-post-url](https://www.linkedin.com/posts/vishnu-ram-sachin-d-_day-13-learnings-by-sachin-activity-7491830827341729793-jsSu?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD-YjK4B1ekkuKaP0cSvVwYi6kAAiCTAQhY)
